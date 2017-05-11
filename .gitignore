@@ -1,0 +1,13 @@
+/build
+Makefile.local
+*.o
+*.a
+/*.config
+/*.creator*
+/*.files
+/*.includes
+/*.pro.user
+/*.pro.user.*
+/*.qbs.user
+/*.qbs.user.*
+*.autosave
